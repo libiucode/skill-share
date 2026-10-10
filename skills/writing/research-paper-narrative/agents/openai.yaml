@@ -1,0 +1,5 @@
+interface:
+  display_name: "科研论文叙事"
+  short_description: "以六种叙事范式组织研究定位、论文引言、贡献表述与实验论证，让主张匹配证据"
+  default_prompt: "使用 $research-paper-narrative，基于我的研究材料选择叙事主线，梳理 Introduction、贡献及需要支持它们的实验。"
+
